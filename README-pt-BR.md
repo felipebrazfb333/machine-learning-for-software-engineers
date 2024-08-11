@@ -117,7 +117,7 @@ Cada assunto não requer um dia inteiro para ser capaz de compreendê-lo totalme
 Cada dia eu pego um assunto da lista abaixo, leia de capa a capa, tome nota, faça os exercícios e escreva uma implementação em Python ou R.
 
 # Motivação
-- [ ] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
+- [x] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
 ## Visão geral do Machine learning
 - [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
